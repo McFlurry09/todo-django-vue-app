@@ -1,0 +1,16 @@
+@import './base.css';
+
+body {
+  height: 100vh;
+  background-color: #f0f0f0; /* Change to a soothing blue color */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-weight: normal;
+}
